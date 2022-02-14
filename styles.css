@@ -1,0 +1,78 @@
+.searchbar{
+    margin-top: 50px;
+    height : 100px;
+    color:rgb(143, 144, 188);
+    background-color:moccasin;
+}
+.bar{
+    width: 500px;
+    height: 35px;
+    background-color:ivory;
+    position:relative;
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 35px;
+       
+}
+
+.searchbutton{
+    display: inline-block;
+    position: relative;
+    left: 30px;
+}
+
+.cancelbutton{
+    display: inline-block;
+    position: relative;
+    left: 60px;
+}
+.cartbutton{
+    position: relative;
+    display: inline-block;
+    top:10px;
+    left:1125px;
+}
+.loginlink{
+    position: relative;
+    left:1100px;
+    top:10px;
+    display: inline-block;
+}
+.heading{
+    position: relative;
+    display: inline-block;
+    bottom:150px;
+    left: 600px;
+    color: hotpink;
+}
+.newCustomer{
+    background-color:cornsilk;
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    top: 150px;
+    height: 250px;
+    right: 230px
+}
+h4{
+    position: relative;
+    padding-top: 10px;
+    color:brown;
+}
+.registeredCustomer{
+    background-color:azure;
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    top: 160px;
+    height: 250px;
+    right: 100px
+}
+h2{
+    position: relative;
+    display: inline-block;
+    top:40px;
+    left:650px;
+    color: crimson;
+}
+
